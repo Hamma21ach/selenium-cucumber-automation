@@ -4,13 +4,13 @@
 This is a comprehensive automation testing project using Selenium WebDriver, Cucumber BDD, and Extent Reports for testing web applications. The project implements the Page Object Model (POM) design pattern and includes advanced reporting with screenshots on test failures.
 
 ## Features
-- ✅ **Selenium WebDriver** for browser automation
-- ✅ **Cucumber BDD** with Gherkin syntax for readable test scenarios
-- ✅ **Page Object Model (POM)** for maintainable test code
-- ✅ **Extent Reports** for detailed HTML test reports
-- ✅ **Automatic Screenshot Capture** on test failures
-- ✅ **Scenario Outline** support for data-driven testing
-- ✅ **WebDriverManager** for automatic driver management
+**Selenium WebDriver** for browser automation
+**Cucumber BDD** with Gherkin syntax for readable test scenarios
+**Page Object Model (POM)** for maintainable test code
+**Extent Reports** for detailed HTML test reports
+**Automatic Screenshot Capture** on test failures
+**Scenario Outline** support for data-driven testing
+**WebDriverManager** for automatic driver management
 
 ## Technologies Used
 - **Java 17**
@@ -173,14 +173,14 @@ Configured to run test classes matching `*Runner` pattern.
 - Pass/Fail status tracking
 
 ## Best Practices Implemented
-- ✅ Page Object Model for better maintainability
-- ✅ Explicit waits for reliable element interactions
-- ✅ Centralized driver management
-- ✅ Screenshot capture for debugging failures
-- ✅ Detailed reporting with Extent Reports
-- ✅ BDD approach with Cucumber for business-readable tests
-- ✅ Data-driven testing with Scenario Outline
-- ✅ Proper resource cleanup in Hooks
+- Page Object Model for better maintainability
+- Explicit waits for reliable element interactions
+- Centralized driver management
+- Screenshot capture for debugging failures
+- Detailed reporting with Extent Reports
+- BDD approach with Cucumber for business-readable tests
+- Data-driven testing with Scenario Outline
+- Proper resource cleanup in Hooks
 
 ## Test Site
 The project uses [The-Internet Herokuapp](https://the-internet.herokuapp.com/) for demonstration:
@@ -213,7 +213,7 @@ The project uses [The-Internet Herokuapp](https://the-internet.herokuapp.com/) f
 This project is created for educational purposes.
 
 ## Author
-[Your Name]
+[Mohamed AYECH]
 
 ## Acknowledgments
 - Selenium WebDriver community
